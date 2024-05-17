@@ -1,0 +1,1 @@
+python3 -m fastchat.serve.test_message --model-name Meta-Llama-3-8B-Instruct 
